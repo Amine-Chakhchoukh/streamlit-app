@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="IAG.ai Risk Assessment - Demo", 
                    page_icon='🎉')
 
-htp5= 'https://photos.app.goo.gl/Wq9LJx1FNaNAWv9J6'
+htp5= 'https://drive.google.com/file/d/1VllN4T1vaTS6VTBSeY_Nf5HMTfs7qwJG'
 st.image(htp5, width=300)
 
 st.title("Dario!! I did it! We have an app!")
