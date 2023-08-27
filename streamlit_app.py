@@ -1,11 +1,11 @@
 import streamlit as st
 
 # ################################################################
-st.set_page_config(page_title="IAG.ai Risk Assessment - Demo", 
+st.set_page_config(page_title="Dario & Amine - Our first app!", 
                    page_icon='🎉')
 
-htp5="https://photos.google.com/share/AF1QipNcph17VlTonE22W43wP7Lu27dftetGqU9l9XvWfyFxo_xTyKHvGP9ibL7EjJpoAw/photo/AF1QipP6LJ7kYWEegDATC7_MswmW1cXiBM97tO6_nLvI?key=dTFuZEFpdi1ZeTFPZlloS21qdlR2SzNwcU1PRFVn"
-st.image(htp5, caption="DArio & Amine", width=300)
+htp5="https://lh3.googleusercontent.com/pw/AIL4fc-PpqW403juiRdL0TilMr8xF0tXLQgiYvB7TaAktqjOfs1FIlOYwhkOudAqv4sRhXpB8dIcLp6Q9PwDbZpA-Vk10EWCYmpcP0_-980sVr5Pjt2NORzSb7976tQZ2vukEzzffuGwaf9ABz9dz36veiOfJQ=w2002-h1502-s-no"
+st.image(htp5, caption="Dario & Amine", width=300)
 
 st.title("Dario!! I did it! We have an app!")
 # ################################################################
