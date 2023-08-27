@@ -5,9 +5,7 @@ st.set_page_config(page_title="IAG.ai Risk Assessment - Demo",
                    page_icon='🎉')
 
 htp5= 'https://photos.app.goo.gl/Wq9LJx1FNaNAWv9J6'
-st.image(htp5, caption= '80-day sale data', width=300)
-
-st.image(image, width=400)
+st.image(htp5, width=300)
 
 st.title("Dario!! I did it! We have an app!")
 # ################################################################
